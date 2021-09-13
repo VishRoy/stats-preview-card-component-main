@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/VishRoy/stats-preview-card-component-main)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://vishroy.github.io/stats-preview-card-component-main/)
 
 ## My process
 
